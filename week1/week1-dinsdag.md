@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[14/01/2026]`  
+**Datum:** `[13/01/2026]`  
 **Studentnaam:** `[Lukas Van Heddegem]`  
 **Groepsnaam:** `[LukasGPT]`
 
@@ -9,31 +9,27 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 > **Activiteiten:**  
-> - Figma bestand afgemaakt: 
->   - Design 2 af
-> - Designproces geschreven
-> - tauri project aangemaakt
+> - Figma bestand aangemaakt: 
+>   - Design 1 af
+>   - Design 2 begonnen
+> - Research af
+> - Persona af
 
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 >**Vandaag geleerd**
-> - [Tauri](https://v2.tauri.app/)
+> - Ik heb vandaag geleerd dat figma gradients slecht zijn, [link](https://forum.figma.com/ask-the-community-7/wrong-gradient-behavior-with-opacity-36185) for reference
 
 
 > **Nieuwe skills:**  
-> - Tauri opzetten
+> - geen
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-*Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
-
-
 > **Algmeeen gevoel:**  
-> - **"calm"** :yellow_calm_dude: 
+> - **"Gefrustreerd"** :steaming_red_very_frustrated_dude: 
 
 ---
